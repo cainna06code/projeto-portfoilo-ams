@@ -39,5 +39,5 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 # Contatos
 Linkedin: https://www.linkedin.com/in/cainn%C3%A3-gamer-140994446
-Email: cainna.marcelino@aluno.cps.sp.gov.br
-Github: https://github.com/cainna06code
+<br> Email: cainna.marcelino@aluno.cps.sp.gov.br
+<br> Github: https://github.com/cainna06code
