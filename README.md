@@ -25,16 +25,16 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 <br>├── style.css         # Arquivo de Estilos Customizados
 <br>└── 📁 assets/
     <br>└── 📁 images/ 
-        <br>├── arduinobanner.jpg  
-        <br>├── bobinadeteslabanner.jpg  
-        <br>├── boostrapbanner.jpg  
-        <br>├── cruzadasbanner.jpg  
-        <br>├── htmlbanner.jpg  
-        <br>├── Javascriptbanner.jpg  
-        <br>├── perfilestudante.jpg  
-        <br>├── prometeuacorretandobanner.jpg  
-        <br>├── restaurantegourmet.jpg  
-        <br>└── saintseiyabanner.jpg  
+        <br>  ├── arduinobanner.jpg
+        <br>  ├── bobinadeteslabanner.jpg
+        <br>  ├── boostrapbanner.jpg
+        <br>  ├── cruzadasbanner.jpg
+        <br>  ├── htmlbanner.jpg
+        <br>  ├── Javascriptbanner.jpg
+        <br>  ├── perfilestudante.jpg
+        <br>  ├── prometeuacorretandobanner.jpg
+        <br>  ├── restaurantegourmet.jpg
+        <br>  └── saintseiyabanner.jpg
 
 
 # Contatos
