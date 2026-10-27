@@ -24,7 +24,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 <br>├── README.md         # Documento markdown com documentação sobre o projeto
 <br>├── style.css         # Arquivo de Estilos Customizados
 <br>└── 📁 assets/
-    └── 📁 images/ 
+    <br> └── 📁 images/ 
         <br>  ├── arduinobanner.jpg
         <br>  ├── bobinadeteslabanner.jpg
         <br>  ├── boostrapbanner.jpg
