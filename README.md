@@ -19,22 +19,22 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 📂 portfoliopw/
 ├── index.html        # Página Inicial (Home)
-├── index2.html       # Página "Sobre Mim" e Habilidades
-├── index3.html       # Página de Projetos (Cards)
-├── README.md         # Documento markdown com documentação sobre o projeto
-├── style.css         # Arquivo de Estilos Customizados
-└── 📁 assets/
-    └── 📁 images/ 
-        ├── arduinobanner.jpg  
-        ├── bobinadeteslabanner.jpg    
-        ├── boostrapbanner.jpg       
-        ├── cruzadasbanner.jpg       
-        ├── htmlbanner.jpg
-        ├── Javascriptbanner.jpg
-        ├── perfilestudante.jpg
-        ├── prometeuacorretandobanner.jpg
-        ├── restaurantegourmet.jpg
-        └── saintseiyabanner.jpg  
+<br> ├── index2.html       # Página "Sobre Mim" e Habilidades
+<br>├── index3.html       # Página de Projetos (Cards)
+<br>├── README.md         # Documento markdown com documentação sobre o projeto
+<br>├── style.css         # Arquivo de Estilos Customizados
+<br>└── 📁 assets/
+    <br>└── 📁 images/ 
+        <br>├── arduinobanner.jpg  
+        <br>├── bobinadeteslabanner.jpg    
+        <br>├── boostrapbanner.jpg       
+        <br>├── cruzadasbanner.jpg       
+        <br>├── htmlbanner.jpg
+        <br>├── Javascriptbanner.jpg
+        <br>├── perfilestudante.jpg
+        <br>├── prometeuacorretandobanner.jpg
+        <br>├── restaurantegourmet.jpg
+        <br>└── saintseiyabanner.jpg  
 
 
 # Contatos
