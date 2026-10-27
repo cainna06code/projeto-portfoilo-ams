@@ -25,7 +25,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 <br>├── style.css         # Arquivo de Estilos Customizados
 <br>└── 📁 assets/
     <br>└── 📁 images/ 
-        <br>├── arduinobanner.jpg  
+        <br>├── arduinobanner.jpg
         <br>├── bobinadeteslabanner.jpg
         <br>├── boostrapbanner.jpg
         <br>├── cruzadasbanner.jpg
