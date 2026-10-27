@@ -6,6 +6,9 @@ Este portfólio web foi desenvolvido com o objetivo de apresentar de forma simpl
 Você pode acessar o site publicado e funcionando através do link abaixo:
 https://projeto-portfoilo-ams.vercel.app/
 
+# Link do Github
+Você pode acessar o repositório completo aqui:
+https://github.com/cainna06code/projeto-portfoilo-ams.git
 
 # Tecnologias e Bibliotecas Utilizadas
 As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
