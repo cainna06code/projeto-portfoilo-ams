@@ -19,10 +19,10 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 📂 portfoliopw/
 ├── index.html        # Página Inicial (Home)
-<br>├── index2.html       # Página "Sobre Mim" e Habilidades
-<br>├── index3.html       # Página de Projetos (Cards)
-<br>├── README.md         # Documento markdown com documentação sobre o projeto
-<br>├── style.css         # Arquivo de Estilos Customizados
+<br>├── index2.html       ---- Página "Sobre Mim" e Habilidades
+<br>├── index3.html       ---- Página de Projetos (Cards)
+<br>├── README.md         ---- Documento markdown com documentação sobre o projeto
+<br>├── style.css         ---- Arquivo de Estilos Customizados
 <br>└── 📁 assets/
     <br> └── 📁 images/ 
         <br>  ├── arduinobanner.jpg
