@@ -1,5 +1,5 @@
-Este portfólio web foi desenvolvido com o objetivo de apresentar de forma simples e direta os principais projetos que realizei ao longo do primeiro ano do curso técnico, destacando também as competências acadêmicas e profissionais que adquiri na área de desenvolvimento de sistemas.
 
+Este portfólio web foi desenvolvido com o objetivo de apresentar de forma simples e direta os principais projetos que realizei ao longo do primeiro ano do curso técnico, destacando também as competências acadêmicas e profissionais que adquiri na área de desenvolvimento de sistemas.
 
 
 # Link do Vercel
